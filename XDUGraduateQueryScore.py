@@ -58,3 +58,4 @@ if __name__ == '__main__':
 		if each[4]:
 			print "%s,%s,%s" % (each[1],each[2],each[4])
 	print "============================================================"
+	raw_input(u'press anykey to exit!')
